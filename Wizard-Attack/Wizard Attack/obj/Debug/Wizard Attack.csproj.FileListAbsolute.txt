@@ -1,0 +1,49 @@
+C:\Users\olong\Source\Repos\idkaboutthis12\Wizard-Attack\Wizard Attack\obj\Debug\Wizard Attack.csproj.AssemblyReference.cache
+C:\Users\olong\Source\Repos\idkaboutthis12\Wizard-Attack\Wizard Attack\obj\Debug\Wizard_Attack.GameplayScreen.resources
+C:\Users\olong\Source\Repos\idkaboutthis12\Wizard-Attack\Wizard Attack\obj\Debug\Wizard_Attack.StartScreen.resources
+C:\Users\olong\Source\Repos\idkaboutthis12\Wizard-Attack\Wizard Attack\obj\Debug\Wizard_Attack.StatScreen.resources
+C:\Users\olong\Source\Repos\idkaboutthis12\Wizard-Attack\Wizard Attack\obj\Debug\Wizard_Attack.Properties.Resources.resources
+C:\Users\olong\Source\Repos\idkaboutthis12\Wizard-Attack\Wizard Attack\obj\Debug\Wizard Attack.csproj.GenerateResource.cache
+C:\Users\olong\Source\Repos\idkaboutthis12\Wizard-Attack\Wizard Attack\obj\Debug\Wizard Attack.csproj.CoreCompileInputs.cache
+C:\Users\olong\Source\Repos\idkaboutthis12\Wizard-Attack\Wizard Attack\bin\Debug\Wizard Attack.exe.config
+C:\Users\olong\Source\Repos\idkaboutthis12\Wizard-Attack\Wizard Attack\bin\Debug\Wizard Attack.exe
+C:\Users\olong\Source\Repos\idkaboutthis12\Wizard-Attack\Wizard Attack\bin\Debug\Wizard Attack.pdb
+C:\Users\olong\Source\Repos\idkaboutthis12\Wizard-Attack\Wizard Attack\obj\Debug\Wizard Attack.exe
+C:\Users\olong\Source\Repos\idkaboutthis12\Wizard-Attack\Wizard Attack\obj\Debug\Wizard Attack.pdb
+C:\Users\olong\Source\Repos\idkaboutthis12\Wizard-Attack\Wizard Attack\bin\Debug\Wizard Attack.exe.manifest
+C:\Users\olong\Source\Repos\idkaboutthis12\Wizard-Attack\Wizard Attack\bin\Debug\Wizard Attack.application
+C:\Users\olong\Source\Repos\idkaboutthis12\Wizard-Attack\Wizard Attack\obj\Debug\Wizard Attack.exe.manifest
+C:\Users\olong\Source\Repos\idkaboutthis12\Wizard-Attack\Wizard Attack\obj\Debug\Wizard Attack.application
+C:\Users\olong\OneDrive - West Nottinghamshire College\Computer Science Level 3\Programming\Assignment 2\Program\Wizard-Attack\Wizard Attack\bin\Debug\Wizard Attack.exe.config
+C:\Users\olong\OneDrive - West Nottinghamshire College\Computer Science Level 3\Programming\Assignment 2\Program\Wizard-Attack\Wizard Attack\bin\Debug\Wizard Attack.exe.manifest
+C:\Users\olong\OneDrive - West Nottinghamshire College\Computer Science Level 3\Programming\Assignment 2\Program\Wizard-Attack\Wizard Attack\bin\Debug\Wizard Attack.application
+C:\Users\olong\OneDrive - West Nottinghamshire College\Computer Science Level 3\Programming\Assignment 2\Program\Wizard-Attack\Wizard Attack\bin\Debug\Wizard Attack.exe
+C:\Users\olong\OneDrive - West Nottinghamshire College\Computer Science Level 3\Programming\Assignment 2\Program\Wizard-Attack\Wizard Attack\bin\Debug\Wizard Attack.pdb
+C:\Users\olong\OneDrive - West Nottinghamshire College\Computer Science Level 3\Programming\Assignment 2\Program\Wizard-Attack\Wizard Attack\obj\Debug\Wizard Attack.csproj.AssemblyReference.cache
+C:\Users\olong\OneDrive - West Nottinghamshire College\Computer Science Level 3\Programming\Assignment 2\Program\Wizard-Attack\Wizard Attack\obj\Debug\Wizard_Attack.GameplayScreen.resources
+C:\Users\olong\OneDrive - West Nottinghamshire College\Computer Science Level 3\Programming\Assignment 2\Program\Wizard-Attack\Wizard Attack\obj\Debug\Wizard_Attack.StartScreen.resources
+C:\Users\olong\OneDrive - West Nottinghamshire College\Computer Science Level 3\Programming\Assignment 2\Program\Wizard-Attack\Wizard Attack\obj\Debug\Wizard_Attack.StatScreen.resources
+C:\Users\olong\OneDrive - West Nottinghamshire College\Computer Science Level 3\Programming\Assignment 2\Program\Wizard-Attack\Wizard Attack\obj\Debug\Wizard_Attack.Properties.Resources.resources
+C:\Users\olong\OneDrive - West Nottinghamshire College\Computer Science Level 3\Programming\Assignment 2\Program\Wizard-Attack\Wizard Attack\obj\Debug\Wizard Attack.csproj.GenerateResource.cache
+C:\Users\olong\OneDrive - West Nottinghamshire College\Computer Science Level 3\Programming\Assignment 2\Program\Wizard-Attack\Wizard Attack\obj\Debug\Wizard Attack.csproj.CoreCompileInputs.cache
+C:\Users\olong\OneDrive - West Nottinghamshire College\Computer Science Level 3\Programming\Assignment 2\Program\Wizard-Attack\Wizard Attack\obj\Debug\Wizard Attack.exe.manifest
+C:\Users\olong\OneDrive - West Nottinghamshire College\Computer Science Level 3\Programming\Assignment 2\Program\Wizard-Attack\Wizard Attack\obj\Debug\Wizard Attack.application
+C:\Users\olong\OneDrive - West Nottinghamshire College\Computer Science Level 3\Programming\Assignment 2\Program\Wizard-Attack\Wizard Attack\obj\Debug\Wizard Attack.exe
+C:\Users\olong\OneDrive - West Nottinghamshire College\Computer Science Level 3\Programming\Assignment 2\Program\Wizard-Attack\Wizard Attack\obj\Debug\Wizard Attack.pdb
+C:\Users\LON23000364\OneDrive - West Nottinghamshire College\Computer Science Level 3\Programming\Assignment 2\Program\Wizard-Attack\Wizard Attack\obj\Debug\Wizard Attack.csproj.AssemblyReference.cache
+C:\Users\LON23000364\OneDrive - West Nottinghamshire College\Computer Science Level 3\Programming\Assignment 2\Program\Wizard-Attack\Wizard Attack\obj\Debug\Wizard Attack.csproj.SuggestedBindingRedirects.cache
+C:\Users\LON23000364\OneDrive - West Nottinghamshire College\Computer Science Level 3\Programming\Assignment 2\Program\Wizard-Attack\Wizard Attack\obj\Debug\Wizard_Attack.GameplayScreen.resources
+C:\Users\LON23000364\OneDrive - West Nottinghamshire College\Computer Science Level 3\Programming\Assignment 2\Program\Wizard-Attack\Wizard Attack\obj\Debug\Wizard_Attack.StartScreen.resources
+C:\Users\LON23000364\OneDrive - West Nottinghamshire College\Computer Science Level 3\Programming\Assignment 2\Program\Wizard-Attack\Wizard Attack\obj\Debug\Wizard_Attack.StatScreen.resources
+C:\Users\LON23000364\OneDrive - West Nottinghamshire College\Computer Science Level 3\Programming\Assignment 2\Program\Wizard-Attack\Wizard Attack\obj\Debug\Wizard_Attack.Properties.Resources.resources
+C:\Users\LON23000364\OneDrive - West Nottinghamshire College\Computer Science Level 3\Programming\Assignment 2\Program\Wizard-Attack\Wizard Attack\obj\Debug\Wizard Attack.csproj.GenerateResource.cache
+C:\Users\LON23000364\OneDrive - West Nottinghamshire College\Computer Science Level 3\Programming\Assignment 2\Program\Wizard-Attack\Wizard Attack\obj\Debug\Wizard Attack.exe
+C:\Users\LON23000364\OneDrive - West Nottinghamshire College\Computer Science Level 3\Programming\Assignment 2\Program\Wizard-Attack\Wizard Attack\obj\Debug\Wizard Attack.pdb
+C:\Users\Owen\OneDrive\Documents\Documents\Vision West Notts College\Computer Science Level 3 Year 1\Units\Programming\Assignment 2\Program\Wizard-Attack\Wizard Attack\obj\Debug\Wizard Attack.csproj.AssemblyReference.cache
+C:\Users\Owen\OneDrive\Documents\Documents\Vision West Notts College\Computer Science Level 3 Year 1\Units\Programming\Assignment 2\Program\Wizard-Attack\Wizard Attack\obj\Debug\Wizard_Attack.GameplayScreen.resources
+C:\Users\Owen\OneDrive\Documents\Documents\Vision West Notts College\Computer Science Level 3 Year 1\Units\Programming\Assignment 2\Program\Wizard-Attack\Wizard Attack\obj\Debug\Wizard_Attack.StartScreen.resources
+C:\Users\Owen\OneDrive\Documents\Documents\Vision West Notts College\Computer Science Level 3 Year 1\Units\Programming\Assignment 2\Program\Wizard-Attack\Wizard Attack\obj\Debug\Wizard_Attack.StatScreen.resources
+C:\Users\Owen\OneDrive\Documents\Documents\Vision West Notts College\Computer Science Level 3 Year 1\Units\Programming\Assignment 2\Program\Wizard-Attack\Wizard Attack\obj\Debug\Wizard_Attack.Properties.Resources.resources
+C:\Users\Owen\OneDrive\Documents\Documents\Vision West Notts College\Computer Science Level 3 Year 1\Units\Programming\Assignment 2\Program\Wizard-Attack\Wizard Attack\obj\Debug\Wizard Attack.csproj.GenerateResource.cache
+C:\Users\Owen\OneDrive\Documents\Documents\Vision West Notts College\Computer Science Level 3 Year 1\Units\Programming\Assignment 2\Program\Wizard-Attack\Wizard Attack\obj\Debug\Wizard Attack.exe
+C:\Users\Owen\OneDrive\Documents\Documents\Vision West Notts College\Computer Science Level 3 Year 1\Units\Programming\Assignment 2\Program\Wizard-Attack\Wizard Attack\obj\Debug\Wizard Attack.pdb
